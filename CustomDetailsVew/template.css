@@ -1,0 +1,20 @@
+html,
+body {
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+  height: 100%;
+  font-family: Helvetica;
+}
+
+#tree {
+  width: 100%;
+  height: 100%;
+  background-color: #F6F7F8;
+}
+
+
+.bg-toolbar-container {
+  top: 30px;
+  bottom: initial !important;
+}
