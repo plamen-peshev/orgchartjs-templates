@@ -19,3 +19,5 @@
 [![alt text](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/Border/template.jpg)](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/Border/)
 ## Rectangle
 [![alt text](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/Rectangle/template.jpg)](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/Rectangle/)
+## RectangleWithBorder
+[![alt text](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/RectangleWithBorder/template.jpg)](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/RectangleWithBorder/)
