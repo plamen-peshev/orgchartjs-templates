@@ -25,3 +25,5 @@
 [![alt text](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/Square/template.jpg)](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/Square/)
 ## Stars
 [![alt text](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/Stars/template.jpg)](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/Stars/)
+## White
+[![alt text](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/White/template.jpg)](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/White/)
