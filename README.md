@@ -7,3 +7,5 @@
 [![alt text](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/CustomDetailsVew/template.jpg)](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/CustomDetailsVew/)
 ## CustomSideDetailsVew
 [![alt text](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/CustomSideDetailsVew/template.jpg)](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/CustomSideDetailsVew/)
+## Circle
+[![alt text](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/Circle/template.jpg)](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/Circle/)
