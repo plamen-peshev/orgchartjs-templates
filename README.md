@@ -15,3 +15,5 @@
 [![alt text](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/LightGrey/template.jpg)](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/LightGrey/)
 ## Header
 [![alt text](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/Header/template.jpg)](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/Header/)
+## Border
+[![alt text](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/Border/template.jpg)](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/Border/)
