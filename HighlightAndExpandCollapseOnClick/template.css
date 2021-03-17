@@ -1,0 +1,36 @@
+html, body{
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin:0;
+  overflow: hidden;
+  font-family: Helvetica;
+}
+#tree{
+  width:100%;
+  height:100%;
+}
+
+.chart-menu {
+  border-width: 10px !important; 
+  border-color: #aeaeae !important; 
+  border: 1px solid #aeaeae !important
+}
+
+[data-item] {
+  border-width: 0px !important; 
+  padding: 20px !important;
+}
+
+[data-tlbr] {
+  margin: 20px !important;
+}
+
+[data-tlbr="layout"] {
+    transform: rotate(0deg) translateX(0px) translateY(0px) !important;
+}
+
+.shadow {
+  -webkit-filter: drop-shadow( 3px 3px 2px rgba(0, 0, 0, .25));
+  filter: drop-shadow( 3px 3px 2px rgba(0, 0, 0, .25));
+}
