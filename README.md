@@ -13,3 +13,5 @@
 [![alt text](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/Cool/template.jpg)](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/Cool/)
 ## LightGrey
 [![alt text](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/LightGrey/template.jpg)](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/LightGrey/)
+## Header
+[![alt text](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/Header/template.jpg)](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/Header/)
