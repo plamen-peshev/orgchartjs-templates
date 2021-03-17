@@ -1,0 +1,26 @@
+html, body{
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin:0;
+  overflow: hidden;
+  font-family: Helvetica;
+}
+#tree{
+  width:100%;
+  height:100%;
+}
+
+[data-item = "details"], [data-item = "edit"], [data-item = "add"]{
+    color: #1b9ce2 !important;
+}
+
+
+[data-item] {
+  border-width: 0px !important; 
+  padding: 15px !important;
+}
+
+.chart-menu {
+  box-shadow:  0px 5px 10px -2px #aeaeae !important;
+}
