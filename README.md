@@ -29,3 +29,5 @@
 [![alt text](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/White/template.jpg)](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/White/)
 ## CustomPlusMinus
 [![alt text](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/CustomPlusMinus/template.jpg)](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/CustomPlusMinus/)
+## Departaments
+[![alt text](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/Departaments/template.jpg)](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/Departaments/)
