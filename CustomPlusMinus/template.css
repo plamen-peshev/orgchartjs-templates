@@ -1,0 +1,30 @@
+html, body{
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin:0;
+  overflow: hidden;
+  font-family: Helvetica;
+}
+#tree{
+  width:100%;
+  height:100%;
+}
+
+ [control-node-menu-id]{
+	display: none;
+}
+
+.node:hover [control-node-menu-id]{
+	display: initial;
+	display: block;
+}
+
+
+[data-item] {
+    padding: 15px !important;
+}
+
+[data-item = "details"] {
+    color: #359cb6 !important;
+}
