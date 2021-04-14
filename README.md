@@ -1,4 +1,4 @@
-# [![alt text](https://balkan.app/)
+[![alt text](https://balkan.app/)
 
 # orgchartjs-templates
 ## Advanced
