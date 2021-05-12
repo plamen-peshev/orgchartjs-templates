@@ -35,3 +35,5 @@
 [![alt text](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/Departaments/template.jpg)](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/Departaments/)
 ## Highlight
 [![alt text](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/Highlight/template.jpg)](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/Highlight/)
+## Disco
+[![alt text](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/Disco/template.jpg)](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/Disco/)
