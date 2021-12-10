@@ -39,3 +39,5 @@
 [![alt text](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/Disco/template.jpg)](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/Disco/)
 ## Derek
 [![alt text](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/Derek/template.jpg)](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/Derek/)
+## Color
+[![alt text](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/Color/template.jpg)](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/Color/)
