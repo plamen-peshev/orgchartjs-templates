@@ -27,7 +27,7 @@ window.onload = function () {
     OrgChart.templates.green.field_1 = 
       '<text data-width="140" style="font-size: 18px;" fill="#ffffff" font-weight="bold" x="75" y="50" text-anchor="middle">{val}</text>';
     OrgChart.templates.green.link = 
-    '<path stroke-linejoin="round" stroke="#aeaeae" stroke-width="1px" fill="none" d="{edge}" />';
+    '<path stroke-linejoin="round" stroke="#af3c25" stroke-width="1px" fill="none" d="{edge}" />';
 
     OrgChart.templates.lightgreen = Object.assign({}, OrgChart.templates.green);
     OrgChart.templates.lightgreen.size = [150, 80];
@@ -178,4 +178,3 @@ window.onload = function () {
 
       chart.load(nodes);
   }
-  
