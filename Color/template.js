@@ -130,7 +130,7 @@ window.onload = function () {
   });
 
   nodes = [
-    { id: 1, tags: ["red1"], title: "ENAC BOARD OF DIRECTORS" },
+    { id: 1, tags: ["red1"], title: "BOARD OF DIRECTORS" },
     { id: 2, pid: 1, tags: ["red2"], name: "Ben Burton", title: "Operations Services Manager", plus: "+" },
     { id: 3, pid: 2, tags: ["green"], title: "Consultants"},
     { id: 4, pid: 2, tags: ["orange"], title: "Administration Division" },
