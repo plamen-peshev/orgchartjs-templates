@@ -41,3 +41,5 @@
 [![alt text](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/Derek/template.jpg)](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/Derek/)
 ## Color
 [![alt text](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/Color/template.jpg)](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/Color/)
+## Performance
+[![alt text](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/Performance/template.jpg)](https://github.com/plamen-peshev/orgchartjs-templates/blob/main/Performance/)
