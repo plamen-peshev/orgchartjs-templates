@@ -56,7 +56,7 @@ window.onload = function () {
   
       this.chart.element.appendChild(div);
   
-      OrgChart.anim(div, {opacity: 0, right: -100}, {opacity: 1, right: 10 }, 300, OrgChart.anim.outSin);
+      OrgChart.animate(div, {opacity: 0, right: -100}, {opacity: 1, right: 10 }, 300, OrgChart.anim.outSin);
   };
   
   editForm.prototype.hide = function (showldUpdateTheNode) {
