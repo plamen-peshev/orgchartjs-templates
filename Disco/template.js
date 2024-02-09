@@ -17,7 +17,7 @@ window.onload = function () {
     OrgChart.templates.disco.field_0 = '<text width="180" style="font-size: 16px;" font-weight="bold" fill="#831c55" x="15" y="28" text-anchor="start">{val}</text>';
     OrgChart.templates.disco.field_1 = '<text width="210" text-overflow="multiline" style="font-size: 14px;" font-weight="bold" fill="#afafaf" x="15" y="47" text-anchor="start">{val}</text>';
     OrgChart.templates.disco.baloon = baloon;
-    OrgChart.templates.disco.nodeMenuButton = '<g style="cursor:pointer;" transform="matrix(1,0,0,1,210,57)" control-node-menu-id="{id}"><rect x="-4" y="-10" fill="#000000" fill-opacity="0" width="22" height="22"></rect><circle cx="4" cy="0" r="2" fill="#636363"></circle><circle cx="9" cy="0" r="2" fill="#636363"></circle><circle cx="14" cy="0" r="2" fill="#636363"></circle></g>';
+    OrgChart.templates.disco.nodeMenuButton = '<g style="cursor:pointer;" transform="matrix(1,0,0,1,210,57)" data-ctrl-n-menu-id="{id}"><rect x="-4" y="-10" fill="#000000" fill-opacity="0" width="22" height="22"></rect><circle cx="4" cy="0" r="2" fill="#636363"></circle><circle cx="9" cy="0" r="2" fill="#636363"></circle><circle cx="14" cy="0" r="2" fill="#636363"></circle></g>';
   
     OrgChart.templates.disco.plus = '<rect x="-11" y="5" height="22" width="50" rx="10" ry="10" stroke-width="1" fill="#831c55" stroke="#831c55"></rect>' 
       + '<circle stroke="#ffffff" stroke-width="2" fill="#ffffff" cx="6" cy="13" r="1.4"></circle> '  
